@@ -1,0 +1,40 @@
+C:\_WORK\_gitHubRepos\deveducation\DebugleTests\DebugleTests\bin\Debug\xunit.abstractions.dll
+C:\_WORK\_gitHubRepos\deveducation\DebugleTests\DebugleTests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\_WORK\_gitHubRepos\deveducation\DebugleTests\DebugleTests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\_WORK\_gitHubRepos\deveducation\DebugleTests\DebugleTests\bin\Debug\xunit.runner.utility.net452.dll
+C:\_WORK\_gitHubRepos\deveducation\DebugleTests\DebugleTests\bin\Debug\DebugleTests.dll
+C:\_WORK\_gitHubRepos\deveducation\DebugleTests\DebugleTests\bin\Debug\DebugleTests.pdb
+C:\_WORK\_gitHubRepos\deveducation\DebugleTests\DebugleTests\bin\Debug\WebDriver.dll
+C:\_WORK\_gitHubRepos\deveducation\DebugleTests\DebugleTests\bin\Debug\WebDriver.Support.dll
+C:\_WORK\_gitHubRepos\deveducation\DebugleTests\DebugleTests\bin\Debug\xunit.assert.dll
+C:\_WORK\_gitHubRepos\deveducation\DebugleTests\DebugleTests\bin\Debug\xunit.core.dll
+C:\_WORK\_gitHubRepos\deveducation\DebugleTests\DebugleTests\bin\Debug\xunit.execution.desktop.dll
+C:\_WORK\_gitHubRepos\deveducation\DebugleTests\DebugleTests\bin\Debug\WebDriver.xml
+C:\_WORK\_gitHubRepos\deveducation\DebugleTests\DebugleTests\bin\Debug\WebDriver.Support.xml
+C:\_WORK\_gitHubRepos\deveducation\DebugleTests\DebugleTests\bin\Debug\xunit.assert.xml
+C:\_WORK\_gitHubRepos\deveducation\DebugleTests\DebugleTests\bin\Debug\xunit.core.xml
+C:\_WORK\_gitHubRepos\deveducation\DebugleTests\DebugleTests\bin\Debug\xunit.execution.desktop.xml
+C:\_WORK\_gitHubRepos\deveducation\DebugleTests\DebugleTests\obj\Debug\DebugleTests.csprojAssemblyReference.cache
+C:\_WORK\_gitHubRepos\deveducation\DebugleTests\DebugleTests\obj\Debug\DebugleTests.csproj.CopyComplete
+C:\_WORK\_gitHubRepos\deveducation\DebugleTests\DebugleTests\obj\Debug\DebugleTests.dll
+C:\_WORK\_gitHubRepos\deveducation\DebugleTests\DebugleTests\obj\Debug\DebugleTests.pdb
+C:\Users\VOU PAREN POLEHCHE\Desktop\Hackathon autotests\DebugleTests-20191027T123648Z-001\DebugleTests\DebugleTests\obj\Debug\DebugleTests.csprojAssemblyReference.cache
+C:\Users\VOU PAREN POLEHCHE\Desktop\Hackathon autotests\DebugleTests-20191027T123648Z-001\DebugleTests\DebugleTests\obj\Debug\DebugleTests.dll
+C:\Users\VOU PAREN POLEHCHE\Desktop\Hackathon autotests\DebugleTests-20191027T123648Z-001\DebugleTests\DebugleTests\obj\Debug\DebugleTests.pdb
+C:\Users\VOU PAREN POLEHCHE\Desktop\Hackathon autotests\DebugleTests-20191027T123648Z-001\DebugleTests\DebugleTests\bin\Debug\xunit.abstractions.dll
+C:\Users\VOU PAREN POLEHCHE\Desktop\Hackathon autotests\DebugleTests-20191027T123648Z-001\DebugleTests\DebugleTests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\VOU PAREN POLEHCHE\Desktop\Hackathon autotests\DebugleTests-20191027T123648Z-001\DebugleTests\DebugleTests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\VOU PAREN POLEHCHE\Desktop\Hackathon autotests\DebugleTests-20191027T123648Z-001\DebugleTests\DebugleTests\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\VOU PAREN POLEHCHE\Desktop\Hackathon autotests\DebugleTests-20191027T123648Z-001\DebugleTests\DebugleTests\bin\Debug\DebugleTests.dll
+C:\Users\VOU PAREN POLEHCHE\Desktop\Hackathon autotests\DebugleTests-20191027T123648Z-001\DebugleTests\DebugleTests\bin\Debug\DebugleTests.pdb
+C:\Users\VOU PAREN POLEHCHE\Desktop\Hackathon autotests\DebugleTests-20191027T123648Z-001\DebugleTests\DebugleTests\bin\Debug\WebDriver.dll
+C:\Users\VOU PAREN POLEHCHE\Desktop\Hackathon autotests\DebugleTests-20191027T123648Z-001\DebugleTests\DebugleTests\bin\Debug\WebDriver.Support.dll
+C:\Users\VOU PAREN POLEHCHE\Desktop\Hackathon autotests\DebugleTests-20191027T123648Z-001\DebugleTests\DebugleTests\bin\Debug\xunit.assert.dll
+C:\Users\VOU PAREN POLEHCHE\Desktop\Hackathon autotests\DebugleTests-20191027T123648Z-001\DebugleTests\DebugleTests\bin\Debug\xunit.core.dll
+C:\Users\VOU PAREN POLEHCHE\Desktop\Hackathon autotests\DebugleTests-20191027T123648Z-001\DebugleTests\DebugleTests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\VOU PAREN POLEHCHE\Desktop\Hackathon autotests\DebugleTests-20191027T123648Z-001\DebugleTests\DebugleTests\bin\Debug\WebDriver.xml
+C:\Users\VOU PAREN POLEHCHE\Desktop\Hackathon autotests\DebugleTests-20191027T123648Z-001\DebugleTests\DebugleTests\bin\Debug\WebDriver.Support.xml
+C:\Users\VOU PAREN POLEHCHE\Desktop\Hackathon autotests\DebugleTests-20191027T123648Z-001\DebugleTests\DebugleTests\bin\Debug\xunit.assert.xml
+C:\Users\VOU PAREN POLEHCHE\Desktop\Hackathon autotests\DebugleTests-20191027T123648Z-001\DebugleTests\DebugleTests\bin\Debug\xunit.core.xml
+C:\Users\VOU PAREN POLEHCHE\Desktop\Hackathon autotests\DebugleTests-20191027T123648Z-001\DebugleTests\DebugleTests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\VOU PAREN POLEHCHE\Desktop\Hackathon autotests\DebugleTests-20191027T123648Z-001\DebugleTests\DebugleTests\obj\Debug\DebugleTests.csproj.CopyComplete
